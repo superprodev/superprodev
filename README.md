@@ -7,10 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=Bossslime" height="150" alt="languages graph"  />
 </div>
 <br>
-<div align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/369145324637257728.png"/>
-</div>
-<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="javascript logo" title="JavaScript" />
