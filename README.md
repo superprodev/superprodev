@@ -83,8 +83,3 @@
 </div>
 
 
-## Links
-- [Website](https://bossslime.com/)
-- [YouTube](https://www.youtube.com/c/bossslime)
-- [Twitter](https://twitter.com/Bossslimeplayz)
-- [Twitch](https://www.twitch.tv/bosssslime)
